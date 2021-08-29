@@ -1,0 +1,4 @@
+php-pear
+pear/Date
+pear/XML_RPC
+pear/mail
